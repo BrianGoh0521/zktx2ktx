@@ -2,6 +2,8 @@ ZSTD Compression
 
 Download the zip and extracrt the file
 
+https://github.com/BrianGoh0521/ZSTD-Compression/archive/refs/heads/main.zip
+
 Run main.py and close it 
 
 Put the file you want to decompress or compress to Input Dir

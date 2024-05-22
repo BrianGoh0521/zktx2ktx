@@ -1,8 +1,8 @@
-ZSTD Compression
+zktx to ktx or ktx to zktx
 
 Download the zip and extracrt the file
 
-https://github.com/BrianGoh0521/ZSTD-Compression/archive/refs/heads/main.zip
+https://github.com/BrianGoh0521/zktx2ktx/archive/refs/heads/main.zip
 
 Run main.py and close it 
 
